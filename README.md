@@ -15,8 +15,8 @@
 
 #### 💡 Skills
 
-- **Languages:** Java, JavaScript
-- **Frameworks:** Spring Boot, React
+- **Languages:** Java, JavaScript, Python ,C
+- **Frameworks:** Spring Boot, React, Django
 - **Other:** REST APIs, Problem Solving, Team Collaboration
 
 ---
