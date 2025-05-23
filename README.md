@@ -32,7 +32,7 @@
 
 #### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rae-duque-46473b212/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rae-duque-46473b212](https://www.youtube.com/watch?v=dQw4w9WgXcQ)/)
 
 ---
 
