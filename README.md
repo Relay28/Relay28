@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rae Duque (Relay28)
+## 👋 Hi, I'm Rae Addison Duque (Relay28)
 
 ### 🎓 Student | Backend Developer | Aspiring Cybersecurity Professional
 
