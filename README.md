@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rae Addison Duque (Relay28)
+## 👋 Hi, I'm Rae Duque (Relay28)
 
 ### 🎓 Student | Backend Developer | Aspiring Cybersecurity Professional
 
@@ -31,8 +31,7 @@
 ---
 
 #### 📫 Connect with Me
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rae-duque-46473b212](https://www.youtube.com/watch?v=dQw4w9WgXcQ)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
