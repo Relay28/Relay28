@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rae Addison Duque (Relay28)
 
-### 🎓 Student | Backend Developer | Aspiring Cybersecurity Professional
+### 🎓 Student 
 
 ---
 
