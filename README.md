@@ -24,7 +24,6 @@
 
 - Playing video games
 - Playing guitar & listening to music
-- Football (soccer)
 - Exploring new tech topics
 
 
