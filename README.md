@@ -1,9 +1,6 @@
 ## 👋 Hi, I'm Rae Addison Duque (Relay28)
 
-### 🎓 Student 
-
----
-
+--- 
 #### 🌟 About Me
 
 - **Background:** Student with a strong passion for technology and security.
